@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f48ee1a97e0a06f5b9236cc0658ac3ef
+guid: e1b7fa5b291136ac5914caac49b0ee71
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,14 +43,14 @@ TextureImporter:
   spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 7
+  alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: 0.51
+  spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -71,55 +71,11 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
-    outline:
-    - - {x: -31, y: 104}
-      - {x: -46, y: 97}
-      - {x: -52, y: 89}
-      - {x: -52, y: -101}
-      - {x: -48, y: -104}
-      - {x: 48, y: -104}
-      - {x: 52, y: -100}
-      - {x: 52, y: 94}
-      - {x: 35, y: 104}
-    physicsShape:
-    - - {x: 52, y: 89}
-      - {x: 42, y: 95}
-      - {x: 19, y: 104}
-      - {x: -18, y: 104}
-      - {x: -24, y: 99}
-      - {x: -46, y: 93}
-      - {x: -52, y: 87}
-      - {x: -52, y: -100}
-      - {x: -47, y: -104}
-      - {x: 48, y: -104}
-      - {x: 52, y: -100}
+    outline: []
+    physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
     internalID: 0

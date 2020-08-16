@@ -1,0 +1,307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rate",
+				"rate_change_vol"
+			],
+			[
+				"ra",
+				"rate_change_day"
+			],
+			[
+				"sel",
+				"sell_threshold"
+			],
+			[
+				"high",
+				"high-low"
+			],
+			[
+				"buy",
+				"buy_threshold"
+			],
+			[
+				"b",
+				"bought_price"
+			],
+			[
+				"bou",
+				"bought"
+			],
+			[
+				"se",
+				"sold_price"
+			],
+			[
+				"bought",
+				"bought_price"
+			],
+			[
+				"buy_",
+				"buy_price"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/notnikhilreddy/Nikhil/presentation",
+		"/home/notnikhilreddy/Nikhil/Projects/git-commands.txt",
+		"/home/notnikhilreddy/Nikhil/Projects/unityProjects/BatteryBabai/.gitignore",
+		"/home/notnikhilreddy/Nikhil/Projects/unityProjects/.gitignore",
+		"/home/notnikhilreddy/Nikhil/Projects/KMDP/data_process/car.csv",
+		"/home/notnikhilreddy/Nikhil/Projects/KMDP/data_process/car_SBS.csv",
+		"/home/notnikhilreddy/Nikhil/Projects/KMDP/README.md",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/plot_prices.py",
+		"/home/notnikhilreddy/Nikhil/My Story",
+		"/home/notnikhilreddy/Documents/MarriageCosts.txt",
+		"/home/notnikhilreddy/Documents/Indian Polity",
+		"/media/notnikhilreddy/NIKHIL/pi-face-recognition/encode_faces.py",
+		"/home/notnikhilreddy/Documents/MarriageCostsEstimation.txt",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/KaggleData/NIFTY_100__EQ__INDICES__NSE__MINUTE.csv",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/plot_rateofchange.py",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/plot_volumes.py",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/TradingAlgo.py",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/TradingAlgo2.py",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/TradingAlgo.ipynb",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/Stock-Price-Prediction/README.md",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/Stock-Price-Prediction/LICENSE",
+		"/home/notnikhilreddy/Videos/Lost In Space Season 1 (720p)/Read Me.txt",
+		"/home/notnikhilreddy/Videos/Lost in Space 2018 S02 COMPLETE (720p)/[TGx]Downloaded from torrentgalaxy.to .txt",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/KaggleData/WIPRO__EQ__NSE__NSE__MINUTE.csv",
+		"/home/notnikhilreddy/Downloads/lstm_model",
+		"/home/notnikhilreddy/Downloads/reliance.csv",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/KaggleData/RELIANCE__EQ__NSE__NSE__MINUTE.csv",
+		"/home/notnikhilreddy/Videos/Space Force S01 COMPLETE (720p)/[TGx]Downloaded from torrentgalaxy.to .txt",
+		"/run/user/1000/gvfs/google-drive:host=st.niituniversity.in,user=yashwanth.peddamallu/1hvAjME5uSd9RcHbv8wWURPjNSFxEwJ5x/1leQYkCrYT0_xELHBmja4OD9UhfS9po90/1KAP50MdgMoih3ZbtJrpEPFwEoIhC9g18/143to4qVgUFTBdajr3ovw-7xZVn9BklH2",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/KaggleData/TATAMOTORS__EQ__NSE__NSE__MINUTE.csv",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/KaggleData/MGL__EQ__NSE__NSE__MINUTE.csv",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/KaggleData/BAJAJFINSV__EQ__NSE__NSE__MINUTE.csv",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/KaggleData/ABCAPITAL__EQ__NSE__NSE__MINUTE.csv",
+		"/home/notnikhilreddy/Nikhil/Projects/Trading/KaggleData/ADANIPORTS__EQ__NSE__NSE__MINUTE.csv",
+		"/home/notnikhilreddy/Downloads/516765_1164068_compressed_FullDataCsv_TATAMOTORS__EQ__NSE__NSE__MINUTE.csv/TATAMOTORS__EQ__NSE__NSE__MINUTE.csv",
+		"/home/notnikhilreddy/Downloads/TATAMOTORS.NS.csv",
+		"/home/notnikhilreddy/Nikhil/Projects/Peeku/algo2.py",
+		"/home/notnikhilreddy/Downloads/Exported/ONGC-EQ.csv",
+		"/home/notnikhilreddy/Downloads/Exported/KARURVYSYA-EQ.csv",
+		"/home/notnikhilreddy/Downloads/Exported/ICICIBANK-EQ.csv",
+		"/home/notnikhilreddy/Downloads/Exported/HDFCBANK-EQ.csv",
+		"/home/notnikhilreddy/Downloads/Exported/BHARTIARTL-EQ.csv",
+		"/home/notnikhilreddy/Downloads/Exported/AXISBANK-EQ.csv",
+		"/home/notnikhilreddy/Nikhil/MicrosoftJobDetails",
+		"/home/notnikhilreddy/Nikhil/Projects/NLP/Notes",
+		"/home/notnikhilreddy/Nikhil/Projects/Peeku/peeku.py",
+		"/home/notnikhilreddy/Downloads/Exported/TATAMOTORS-EQ.csv",
+		"/home/notnikhilreddy/Downloads/TradingAlgo.ipynb",
+		"/home/notnikhilreddy/Downloads/Exported/BANKBARODA-EQ.csv",
+		"/home/notnikhilreddy/Downloads/Exported/GLENMARK-EQ.csv",
+		"/home/notnikhilreddy/Downloads/CompoundTrading.ipynb",
+		"/home/notnikhilreddy/Downloads/Untitled.ipynb",
+		"/home/notnikhilreddy/Downloads/wikitext-2-raw/wiki.train.raw",
+		"/home/notnikhilreddy/Nikhil/Projects/NLP/Strengths and Limitations",
+		"/home/notnikhilreddy/Nikhil/Projects/majorProject/AHUS/Main.java",
+		"/home/notnikhilreddy/Nikhil/Projects/majorProject/AHUS/AHUS4.java",
+		"/home/notnikhilreddy/Nikhil/Projects/majorProject/ppt_",
+		"/home/notnikhilreddy/Nikhil/Projects/majorProject/AHUS/database.txt",
+		"/home/notnikhilreddy/Nikhil/Projects/majorProject/AHUS/todo.txt",
+		"/home/notnikhilreddy/Desktop/AHUS/results.txt",
+		"/home/notnikhilreddy/Desktop/AHUS/database.txt",
+		"/home/notnikhilreddy/Nikhil/Projects/majorProject/ppt",
+		"/home/notnikhilreddy/Nikhil/Projects/majorProject/AHUS/algorithm-summary.txt",
+		"/home/notnikhilreddy/Nikhil/Projects/majorProject/AHUS/results.txt",
+		"/home/notnikhilreddy/Downloads/Popcorn-Time-linux64/README.md",
+		"/home/notnikhilreddy/.sudo_as_admin_successful",
+		"/run/user/1000/gvfs/google-drive:host=st.niituniversity.in,user=yashwanth.peddamallu/11efhaCCiZyoTpbZzyugNYlaSNr8Gafho/11PwhtHBniZzIzW6bqxUMahlMf3H492Fi/1OnWxhCUMn8e2GsdlsRgXyc0KaP0vnjD_",
+		"/home/notnikhilreddy/Nikhil/Projects/majorProject/MainTestUSpan.java",
+		"/home/notnikhilreddy/Nikhil/Projects/majorProject/AHUS/SIGN.txt",
+		"/home/notnikhilreddy/Nikhil/Projects/Limitations:",
+		"/home/notnikhilreddy/Nikhil/Projects/git.txt",
+		"/home/notnikhilreddy/Nikhil/Projects/AHUS/todo.txt",
+		"/home/notnikhilreddy/Nikhil/Projects/majorProject/uspan/SIGN.txt",
+		"/home/notnikhilreddy/Nikhil/Projects/majorProject/uspan/DataBase_USpan.txt",
+		"/home/notnikhilreddy/Nikhil/Projects/majorProject/uspan/database.txt",
+		"/home/notnikhilreddy/Nikhil/Projects/majorProject/AHUS/algorithm.txt",
+		"/home/notnikhilreddy/Downloads/web_apps/instagram.desktop",
+		"/home/notnikhilreddy/Downloads/web_apps/readme.md",
+		"/home/notnikhilreddy/Downloads/web_apps/whatsapp-web.desktop",
+		"/home/notnikhilreddy/Nikhil/Projects/NLP/Word2Vec/Notes",
+		"/home/notnikhilreddy/Downloads/eye blink Robo Main.py",
+		"/home/notnikhilreddy/Nikhil/Projects/NLP/.ipynb_checkpoints/Untitled-checkpoint.ipynb",
+		"/home/notnikhilreddy/Nikhil/Projects/NLP/alice.txt",
+		"/home/notnikhilreddy/Nikhil/Projects/NLP/alice",
+		"/home/notnikhilreddy/.local/bin/tqdm",
+		"/home/notnikhilreddy/.local/bin/mturk",
+		"/home/notnikhilreddy/.local/bin/pip",
+		"/home/notnikhilreddy/.local/bin/sdbadmin",
+		"/home/notnikhilreddy/.local/bin/rst2xetex.py",
+		"/home/notnikhilreddy/.local/bin/pygmentize",
+		"/home/notnikhilreddy/.local/bin/iptest3",
+		"/home/notnikhilreddy/.local/bin/jsonschema",
+		"/home/notnikhilreddy/.pyenv/shims/jupyter",
+		"/home/notnikhilreddy/.local/bin/jupyter-kernelspec",
+		"/home/notnikhilreddy/.local/share/jupyter/notebook_secret",
+		"/home/notnikhilreddy/.local/bin/jupyter-kernel",
+		"/home/notnikhilreddy/.local/bin/jupyter",
+		"/home/notnikhilreddy/.local/share/jupyter/kernels/python3/kernel.json",
+		"/home/notnikhilreddy/.bash_aliases",
+		"/home/notnikhilreddy/.bash_profile",
+		"/etc/environment",
+		"/home/notnikhilreddy/.profile",
+		"/home/notnikhilreddy/code.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PlayerMovement.cs.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
